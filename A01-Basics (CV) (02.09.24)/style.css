@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(242, 198, 140);
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 2%;
+}
+h2{
+    color: rgb(242, 198, 140);
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3px;
+}
+
+footer{
+    color: rgb(242, 198, 140);
+    background-color: black;
+}
